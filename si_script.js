@@ -1,5 +1,5 @@
 
-function geek() {
+function simpleInterest() {
     var p = prompt("Please enter principal", "");
     var r = prompt("Please enter rate", "");
     var t = prompt("Please enter time", "");
